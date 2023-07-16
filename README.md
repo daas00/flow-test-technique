@@ -1,2 +1,2 @@
 # flow-test-technique
-Test Technique (React, NestJs)
+Trading App(React, NestJs)
