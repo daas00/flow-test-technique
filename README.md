@@ -1,2 +1,2 @@
 # flow-test-technique
-Test Technoque (React, NestJs)
+Test Technique (React, NestJs)
