@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.trading-page{
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+.recharts-responsive-container{
+  margin: auto;
+}

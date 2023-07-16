@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "jsx": "react",
+    "esModuleInterop": true,
+    "noImplicitAny": false
+  },
+  "include": ["src"]
+  }
+
+  
